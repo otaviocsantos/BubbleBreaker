@@ -1,5 +1,5 @@
-[![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=BubbleBreakerGameUnity)](https://github.com/dgkanatsios/gaforgithub)
-
 Bubble Breaker
 =============
-Source code for a Bubble Breaker style game built in Unity3D. You can see a detailed blog post [here](http://dgkanatsios.com/2014/06/29/bubble-breaker-tutorial-in-unity-source-code-included-3/) and you can play the game [here](http://unitysamples.azurewebsites.net/bubblebreaker.html)
+This is a forked version from Dimitris-Ilias Gkanatsios' Bubble Breaker, original source code may be found [here](https://github.com/dgkanatsios/BubbleBreaker).
+
+The intent of this fork is to showcase [Gradient Sprite Shaders](https://github.com/otaviocsantos/Gradient-Sprite-Shaders) working in a complete project.

@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: BackgroundMaterial
-  m_Shader: {fileID: 30, guid: 0000000000000000f000000000000000, type: 0}
+  m_Name: LinearAlphaGradient
+  m_Shader: {fileID: 4800000, guid: 985c4fb3c2ddef44bb3a8a9a63603b89, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -18,7 +18,7 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BumpMap:
+    - <noninit>:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -26,6 +26,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Floats: []
+    m_Floats:
+    - <noninit>: 3
+    - _AlphaCount: 3
+    - _ColorCount: 3
+    - _Horizontal: 0
     m_Colors:
-    - _Color: {r: 0.54509807, g: 0.27058825, b: 0.07450981, a: 1}
+    - <noninit>: {r: 1, g: 1, b: 1, a: 1}
